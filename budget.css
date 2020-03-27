@@ -1,0 +1,13 @@
+.line-spacing {
+    margin-top: 20px;
+}
+
+.width {
+  max-width: 100% !important;
+}
+.red-focus {
+  border: 1px solid red;
+}
+.color{
+  background-color: red;
+}
